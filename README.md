@@ -3,7 +3,7 @@
 
 ## 🚀 Featured Projects  
 
-- [**Robotic Hand: AI-Powered Gesture Control**]()  
+- [**Robotic Hand: AI-Powered Gesture Control**](https://docs.google.com/presentation/d/1tgg9Ndt8BLDFN6fmb8dD_r7nV7PBrQc1BNgXavs4zX4/edit?usp=sharing)  
   - Originally developed using **STM32** for manual finger and wrist control.  
   - Replaced STM32 with an **Arduino Uno**, integrating **OpenCV** to track hand gestures in real-time.  
   - Implemented **serial communication**, where a Python script detects open/closed fingers and sends commands to Arduino for motor control.  
